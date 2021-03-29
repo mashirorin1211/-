@@ -24,7 +24,7 @@ payload = {
     'pageHistory' : '0',
     'fbzx' : '1431842163172551877'
 }
-num = 10
+num = 500
 period = np.arange(0.5, 5.0, 0.1)
 delay = 0
 while num > 0:
